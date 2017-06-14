@@ -15,6 +15,7 @@
 		F179DD261EF120E70098D79B /* ic_autorenew_2x.png in Resources */ = {isa = PBXBuildFile; fileRef = F179DD241EF120E70098D79B /* ic_autorenew_2x.png */; };
 		F179DD271EF120E70098D79B /* ic_autorenew.png in Resources */ = {isa = PBXBuildFile; fileRef = F179DD251EF120E70098D79B /* ic_autorenew.png */; };
 		F179DD291EF121020098D79B /* ic_autorenew_3x.png in Resources */ = {isa = PBXBuildFile; fileRef = F179DD281EF121020098D79B /* ic_autorenew_3x.png */; };
+		F1F7702F1EF1390100727F13 /* SecondViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F1F7702E1EF1390100727F13 /* SecondViewController.swift */; };
 /* End PBXBuildFile section */
 
 /* Begin PBXFileReference section */
@@ -28,6 +29,7 @@
 		F179DD241EF120E70098D79B /* ic_autorenew_2x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_autorenew_2x.png; path = ../../../../Desktop/ic_autorenew_2x.png; sourceTree = "<group>"; };
 		F179DD251EF120E70098D79B /* ic_autorenew.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_autorenew.png; path = ../../../../Desktop/ic_autorenew.png; sourceTree = "<group>"; };
 		F179DD281EF121020098D79B /* ic_autorenew_3x.png */ = {isa = PBXFileReference; lastKnownFileType = image.png; name = ic_autorenew_3x.png; path = ../../../../Desktop/ic_autorenew_3x.png; sourceTree = "<group>"; };
+		F1F7702E1EF1390100727F13 /* SecondViewController.swift */ = {isa = PBXFileReference; fileEncoding = 4; lastKnownFileType = sourcecode.swift; path = SecondViewController.swift; sourceTree = "<group>"; };
 /* End PBXFileReference section */
 
 /* Begin PBXFrameworksBuildPhase section */
@@ -66,6 +68,7 @@
 				F179DD121EF118FD0098D79B /* AppDelegate.swift */,
 				F179DD141EF118FD0098D79B /* ViewController.swift */,
 				F179DD161EF118FD0098D79B /* Main.storyboard */,
+				F1F7702E1EF1390100727F13 /* SecondViewController.swift */,
 				F179DD191EF118FD0098D79B /* Assets.xcassets */,
 				F179DD1B1EF118FD0098D79B /* LaunchScreen.storyboard */,
 				F179DD1E1EF118FD0098D79B /* Info.plist */,
@@ -148,6 +151,7 @@
 			isa = PBXSourcesBuildPhase;
 			buildActionMask = 2147483647;
 			files = (
+				F1F7702F1EF1390100727F13 /* SecondViewController.swift in Sources */,
 				F179DD151EF118FD0098D79B /* ViewController.swift in Sources */,
 				F179DD131EF118FD0098D79B /* AppDelegate.swift in Sources */,
 			);
@@ -313,6 +317,7 @@
 				F179DD231EF118FD0098D79B /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
